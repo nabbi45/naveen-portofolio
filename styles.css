@@ -1,0 +1,133 @@
+body{
+
+margin:0;
+  text-align: center;
+  color: #16a596
+
+
+}
+
+.top-container{
+  background-color: #cffffe;
+  position: relative;
+  padding-top: 100px;
+
+
+}
+
+.heading-one{
+
+  margin-top: 0;
+  padding-top: 50px;
+  font-weight: normal;
+
+
+font-family: 'Itim', cursive;
+}
+
+.first-paragraph{
+  font-family: 'Itim', cursive;
+  font-size: 150%;
+
+}
+
+.cloud-top{
+  margin-right: 50px;
+  position: absolute;
+  right: 200px;
+  top: 50px;
+
+
+}
+
+
+.cloud-bottom{
+  position: absolute;
+  left: 200px;
+  top: 300px;
+
+
+}
+.mountain{
+  display: inline-block;
+
+}
+
+.naveen-intro{
+  padding-top: 40px;
+}
+
+.naveen-photo{
+  width: 150px;
+}
+
+.middle-paragraph{
+  width: 30%;
+  margin: auto;
+  font-size: 120%;
+  font-family: 'Itim', cursive;
+  color: #000000;
+  line-height: 150%;
+
+}
+
+
+h1{
+  font-weight: normal;
+
+
+font-family: 'Itim', cursive;
+}
+
+h2{
+
+  font-weight: normal;
+  padding-top: 50px;
+
+
+
+font-family: 'Itim', cursive;
+}
+
+
+hr{
+
+  margin-top: 75px;
+  border:5px dotted;
+  color: #898b8a;
+  height: 0;
+  border-top: 0;
+  width: 5%;
+
+}
+
+.skills{
+  margin-top: 50px;
+}
+
+.skill-1-image{
+width: 150px;
+}
+
+.skill-2-image{
+width: 100px;
+}
+
+.bottom-container{
+  background-color: #cffffe;
+  text-align: center;
+  margin-top: 50px;
+  padding-bottom: 10px;
+
+
+}
+
+.linkedin-icon{
+  width: 20px;
+  padding-top: 40px;
+}
+
+.copyright{
+  font-size: 10px;
+  padding-bottom: 30px;
+}
